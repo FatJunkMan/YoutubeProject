@@ -36,3 +36,5 @@ token.json
 service-account*.json
 credentials*.json
 *.pem
+__pycache__/
+*.pyc
